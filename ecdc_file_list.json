@@ -1,0 +1,26 @@
+[
+    {
+        "source_baseURL":"https://github.com/",
+        "source_relativeURL":"cloudboxacademy/covid19/raw/main/ecdc_data/cases_deaths.csv",
+        "sink_filename":"cases_deaths.csv"
+    },
+    {
+        "source_baseURL":"https://github.com/",
+        "source_relativeURL":"cloudboxacademy/covid19/raw/main/ecdc_data/hospital_admissions.csv",
+        "sink_filename":"hospital_admissions.csv"
+    },
+    {
+        "source_baseURL":"https://github.com/",
+        "source_relativeURL":"cloudboxacademy/covid19/raw/main/ecdc_data/testing.csv",
+        "sink_filename":"testing.csv"
+    },
+    {
+        "source_baseURL":"https://github.com/",
+        "source_relativeURL":"cloudboxacademy/covid19/raw/main/ecdc_data/country_response.csv",
+        "sink_filename":"country_response.csv"
+    }
+]
+
+
+
+https://covid-reporting-hdicluster.azurehdinsight.net
